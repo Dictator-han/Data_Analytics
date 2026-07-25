@@ -1,0 +1,899 @@
+{
+  "page_count": 1,
+  "comments": [
+    {
+      "sub_comment_cursor": "6a480cbb0000000015005605",
+      "id": "6a45532b000000002a005aa5",
+      "at_users": [],
+      "sub_comment_count": "5",
+      "like_count": "10+",
+      "user_info": {
+        "user_id": "6593b27500000000220023a9",
+        "nickname": "DDD",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31th6bga7m8005pcjm9qog8t9sg8sab8?imageView2/2/w/120/format/jpg",
+        "ai_agent": false,
+        "xsec_token": "AB1rCjW0sRuxtWtKHz-QHtycHrvQTv2QH5cymyvpmHGiw="
+      },
+      "sub_comments": [
+        {
+          "note_id": "6a426275000000002003bd0f",
+          "content": "web3 同理",
+          "at_users": [],
+          "like_count": "5",
+          "user_info": {
+            "user_id": "62c6b59c000000000303f20b",
+            "nickname": "可可坚果",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31onp19kd06005om6mme0vsgb0kuvnn8?imageView2/2/w/120/format/jpg",
+            "ai_agent": false,
+            "xsec_token": "ABhob32ZuyXO1_wITQAULhRHbmApUezOaa9da-QUwSvQk="
+          },
+          "create_time": 1783106748000,
+          "ip_location": "重庆",
+          "invalid": false,
+          "id": "6a480cbb0000000015005605",
+          "status": 0,
+          "liked": false,
+          "show_tags": [],
+          "target_comment": {
+            "id": "6a45532b000000002a005aa5",
+            "user_info": {
+              "user_id": "6593b27500000000220023a9",
+              "nickname": "DDD",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31th6bga7m8005pcjm9qog8t9sg8sab8?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "AB1rCjW0sRuxtWtKHz-QHtycHrvQTv2QH5cymyvpmHGiw="
+            }
+          }
+        }
+      ],
+      "note_id": "6a426275000000002003bd0f",
+      "status": 0,
+      "show_tags": [],
+      "create_time": 1782928171000,
+      "ip_location": "新加坡",
+      "sub_comment_has_more": true,
+      "invalid": false,
+      "content": "你们 Vibe Coding 的人没事干的话，可以去找个班上，不要再浪费数据中心的电力去做这种无聊的项目了",
+      "liked": false
+    },
+    {
+      "status": 0,
+      "liked": false,
+      "sub_comments": [
+        {
+          "liked": false,
+          "like_count": "10+",
+          "create_time": 1782775035000,
+          "ip_location": "美国",
+          "id": "6a42fcfb000000000d021c00",
+          "status": 0,
+          "content": "好痛好痛",
+          "user_info": {
+            "user_id": "62129267000000001000f2ca",
+            "nickname": "汉尼拔罐",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/641d0f86791182156ac01ff8.jpg?imageView2/2/w/120/format/jpg",
+            "ai_agent": false,
+            "xsec_token": "ABGJiGIiahdoPeq-tSQKGylM2iLKKWYT_xL0M8qao_7Ec="
+          },
+          "show_tags": [],
+          "target_comment": {
+            "id": "6a42c4860000000015008db5",
+            "user_info": {
+              "xsec_token": "ABc6U9YhecsvdPl58Z1tN_lZxgoWEODcs_JMSfTNPDjaw=",
+              "user_id": "56b7f5c6cb35fb26fa0783bb",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320k2khs4me0045gmfkqsd0trfsu7ps8?imageView2/2/w/120/format/jpg",
+              "ai_agent": false
+            }
+          },
+          "invalid": false,
+          "note_id": "6a426275000000002003bd0f",
+          "at_users": []
+        }
+      ],
+      "sub_comment_cursor": "6a42fcfb000000000d021c00",
+      "sub_comment_has_more": true,
+      "note_id": "6a426275000000002003bd0f",
+      "at_users": [],
+      "show_tags": [],
+      "ip_location": "美国",
+      "invalid": false,
+      "like_count": "10+",
+      "sub_comment_count": "7",
+      "id": "6a42c4860000000015008db5",
+      "content": "解决了在家不能上班的痛点",
+      "user_info": {
+        "user_id": "56b7f5c6cb35fb26fa0783bb",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320k2khs4me0045gmfkqsd0trfsu7ps8?imageView2/2/w/120/format/jpg",
+        "ai_agent": false,
+        "xsec_token": "ABc6U9YhecsvdPl58Z1tN_lZxgoWEODcs_JMSfTNPDjaw="
+      },
+      "create_time": 1782760583000
+    },
+    {
+      "status": 0,
+      "create_time": 1784946095000,
+      "ip_location": "湖北",
+      "sub_comment_cursor": "",
+      "id": "6a641dae000000001403a2f6",
+      "liked": false,
+      "user_info": {
+        "user_id": "678b2d56000000000d009aa6",
+        "nickname": "兢兢葡萄",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v682ir1jq605psb5lb396l666gmhdg?imageView2/2/w/120/format/jpg",
+        "ai_agent": false,
+        "xsec_token": "ABz8MWH1io5cudWuAi7AUsczEGs83_zm-cnaExSbHfR9U="
+      },
+      "sub_comments": [],
+      "content": "感觉用工具把人变成系统，就是一种把人异化成工具的方式，可能会造成任何事物都可以由算法决定的错觉，这会造成对自我的去责任化。可能久而久之会迷失。",
+      "at_users": [],
+      "invalid": false,
+      "like_count": "0",
+      "show_tags": [],
+      "sub_comment_count": "0",
+      "sub_comment_has_more": false,
+      "note_id": "6a426275000000002003bd0f"
+    },
+    {
+      "content": "听我的，普通人没那么多数据要整理，每天也产生不了那么多有价值的数据，更没那个能力管理这样一个系统。",
+      "show_tags": [],
+      "sub_comment_count": "2",
+      "sub_comments": [
+        {
+          "invalid": false,
+          "id": "6a446f1b000000002b02669b",
+          "note_id": "6a426275000000002003bd0f",
+          "status": 0,
+          "at_users": [],
+          "liked": false,
+          "like_count": "10+",
+          "user_info": {
+            "user_id": "562c98f8f53ee01b6e225e8b",
+            "nickname": "极个别同志",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31554o0m80u6041qr6lcfgnkbr08hkd0?imageView2/2/w/120/format/jpg",
+            "ai_agent": false,
+            "xsec_token": "AB9W2XTEaWfLjhr4oD7ciHzegM3XF18eqSOC1mOQYuI-8="
+          },
+          "create_time": 1782869787000,
+          "content": "是的，我曾试图搞一个，发现自己一天里没有多少事情需要管理，自己脑子过一遍也就几分钟都过完了",
+          "show_tags": [],
+          "ip_location": "陕西",
+          "target_comment": {
+            "id": "6a43f4d2000000000b038f0c",
+            "user_info": {
+              "ai_agent": false,
+              "xsec_token": "ABoja1Fgkob5dP5wL5gXUSql6-tIab7tJ9zS_nyFKhEfM=",
+              "user_id": "5f855d870000000001000402",
+              "nickname": "Blackout",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31opmtc8eh2005ns5bm3g8102p2oqim0?imageView2/2/w/120/format/jpg"
+            }
+          }
+        }
+      ],
+      "sub_comment_cursor": "6a446f1b000000002b02669b",
+      "note_id": "6a426275000000002003bd0f",
+      "create_time": 1782838483000,
+      "ip_location": "上海",
+      "sub_comment_has_more": true,
+      "invalid": false,
+      "at_users": [],
+      "id": "6a43f4d2000000000b038f0c",
+      "status": 0,
+      "liked": false,
+      "like_count": "10+",
+      "user_info": {
+        "user_id": "5f855d870000000001000402",
+        "nickname": "Blackout",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31opmtc8eh2005ns5bm3g8102p2oqim0?imageView2/2/w/120/format/jpg",
+        "ai_agent": false,
+        "xsec_token": "ABoja1Fgkob5dP5wL5gXUSql6-tIab7tJ9zS_nyFKhEfM="
+      }
+    },
+    {
+      "invalid": false,
+      "create_time": 1783660766000,
+      "id": "6a5080de0000000015010979",
+      "note_id": "6a426275000000002003bd0f",
+      "status": 0,
+      "user_info": {
+        "user_id": "619c2d0000000000020265a3",
+        "nickname": "自然女小白",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31htcl88d3o6g5ocs5k00kpd3nc2p53g?imageView2/2/w/120/format/jpg",
+        "ai_agent": false,
+        "xsec_token": "ABscgpqCFnbNs6Luk7ul1XKVVPLFezXfJFjBi-fW0LmTA="
+      },
+      "show_tags": [],
+      "like_count": "0",
+      "sub_comment_cursor": "6a5080ea0000000021011e42",
+      "ip_location": "上海",
+      "sub_comment_count": "3",
+      "sub_comments": [
+        {
+          "id": "6a5080ea0000000021011e42",
+          "note_id": "6a426275000000002003bd0f",
+          "status": 0,
+          "at_users": [],
+          "like_count": "0",
+          "user_info": {
+            "user_id": "68944c1e0000000028001164",
+            "nickname": "问一问",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2f031kojs3241u6g5plr93gmrfe5jkq0gvo",
+            "ai_agent": true,
+            "xsec_token": "ABXpEdrqE8twUeIqbHd4dkKjsJz-_lILd3XwVf0T-jmGs="
+          },
+          "invalid": false,
+          "content": "根据现有信息，笔记中提到的Marvis软件 本身并没有直接提及支持向Obsidian新建或修改笔记的功能 。\n不过，Obsidian作为一个高度可扩展的本地知识库，完全可以通过其他AI工具或插件实现类似“生活操作系统”的自动化管理，包括让AI帮你新建和修改笔记。\n【如何让AI与Obsidian联动】\n虽然Marvis在笔记中主要展示了文件整理、电脑体检和任务安排等系统级操作，但如果你希望实现AI与Obsidian的深度联动，可以参考以下几种成熟的方案：\n使用支持API的AI工具：像Codex、Cursor这类AI工具，可以通过编写脚本（Prompt）来读写本地文件。你可以让它们监控你的Obsidian库，自动扫描新笔记、提取关键词、生成双向链接，甚至根据你的模板自动生成新的笔记内容。\n安装Obsidian社区插件：Obsidian拥有丰富的插件生态，可以直接在社区插件市场找到许多AI相关的插件。\nCopilot for Obsidian：这是一个功能强大的插件，支持接入你自己的OpenAI、Claude等API密钥。它的Pro版本可以直接编辑笔记、与整个知识库对话，实现更智能的交互。\nSmart Connections & Smart Lookup：这类插件能用本地AI为你的知识库建模，自动找出相关笔记并进行语义搜索，让零散的知识点自动串联起来。\n【Obsidian的自动化优势】\nObsidian的核心优势在于 数据完全本地化，且所有笔记都以Markdown格式存储 。这意味着你可以用任何支持文件读写的AI工具来操作它，而不受特定软件生态的限制。 你可以搭建一个“会自己生长”的笔记库，让AI在后台自动整理、关联和更新你的知识，真正实现不依赖自律的自动化管理。",
+          "liked": false,
+          "show_tags": [],
+          "create_time": 1783660779000,
+          "target_comment": {
+            "user_info": {
+              "user_id": "619c2d0000000000020265a3",
+              "nickname": "自然女小白",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31htcl88d3o6g5ocs5k00kpd3nc2p53g?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABscgpqCFnbNs6Luk7ul1XKVVPLFezXfJFjBi-fW0LmTA="
+            },
+            "id": "6a5080de0000000015010979"
+          }
+        }
+      ],
+      "content": "@问一问 文中提到的软件能往obsidian里新建笔记吗，或者修改已有的笔记，请上网搜一下回答我",
+      "at_users": [
+        {
+          "user_id": "68944c1e0000000028001164",
+          "nickname": "问一问",
+          "ai_agent": false,
+          "xsec_token": "ABXpEdrqE8twUeIqbHd4dkKjsJz-_lILd3XwVf0T-jmGs="
+        }
+      ],
+      "liked": false,
+      "sub_comment_has_more": true
+    },
+    {
+      "ip_location": "陕西",
+      "at_users": [],
+      "liked": false,
+      "user_info": {
+        "nickname": "？？？",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gf586p3jo6g5n2f246k2tds1pcema0?imageView2/2/w/120/format/jpg",
+        "ai_agent": false,
+        "xsec_token": "ABoLkUFv9mV1qPJp8yDG3f_p9MQlHzL9EhN3rLaFeg_KA=",
+        "user_id": "5c4f110d00000000100175bc"
+      },
+      "sub_comment_cursor": "",
+      "sub_comment_has_more": false,
+      "sub_comment_count": "0",
+      "note_id": "6a426275000000002003bd0f",
+      "sub_comments": [],
+      "invalid": false,
+      "id": "6a43483a0000000014039f38",
+      "status": 0,
+      "content": "职场嘉豪，把生活都搞成职场那一套糟粕",
+      "like_count": "10+",
+      "show_tags": [],
+      "create_time": 1782794299000
+    },
+    {
+      "id": "6a430ad50000000005014094",
+      "status": 0,
+      "liked": false,
+      "show_tags": [],
+      "ip_location": "江苏",
+      "sub_comments": [
+        {
+          "status": 0,
+          "at_users": [
+            {
+              "nickname": "小羊偷牛奶🥛",
+              "ai_agent": false,
+              "xsec_token": "ABGk9y77BWdaDu0ONq9NS8CK-V_uKT0Rm46s3Sr1Uw6sU=",
+              "user_id": "59fd59234eacab3a97f7d584"
+            }
+          ],
+          "liked": false,
+          "like_count": "0",
+          "show_tags": [],
+          "target_comment": {
+            "id": "6a430ad50000000005014094",
+            "user_info": {
+              "user_id": "59927e9e5e87e73fceaa4f4b",
+              "nickname": "染时",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qf4j2jig4105oravb37r510u134e08?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABYAB6oDH4Ix8gNO5039ugsT5hwslt9EjOrirhltfer4w="
+            }
+          },
+          "invalid": false,
+          "id": "6a49614400000000290274b5",
+          "note_id": "6a426275000000002003bd0f",
+          "content": "@小羊偷牛奶🥛",
+          "user_info": {
+            "user_id": "61c009110000000021025604",
+            "nickname": "Hsützu",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jd1joi32u005oe0148oclg450e0hj8?imageView2/2/w/120/format/jpg",
+            "ai_agent": false,
+            "xsec_token": "ABPO4362pwhsuvH6KSJcW8tLQOp12Rlp9mO4Jo1_JYYZ0="
+          },
+          "create_time": 1783193924000,
+          "ip_location": "浙江"
+        }
+      ],
+      "note_id": "6a426275000000002003bd0f",
+      "content": "不要把自己当工具用",
+      "at_users": [],
+      "like_count": "10+",
+      "user_info": {
+        "xsec_token": "ABYAB6oDH4Ix8gNO5039ugsT5hwslt9EjOrirhltfer4w=",
+        "user_id": "59927e9e5e87e73fceaa4f4b",
+        "nickname": "染时",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qf4j2jig4105oravb37r510u134e08?imageView2/2/w/120/format/jpg",
+        "ai_agent": false
+      },
+      "create_time": 1782778582000,
+      "sub_comment_count": "1",
+      "sub_comment_cursor": "6a49614400000000290274b5",
+      "sub_comment_has_more": false,
+      "invalid": false
+    },
+    {
+      "at_users": [],
+      "user_info": {
+        "user_id": "6788552e00000000060134f8",
+        "nickname": "momo",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b809d1b0ee4025dc47735.jpg?imageView2/2/w/120/format/jpg",
+        "ai_agent": false,
+        "xsec_token": "ABwO8mrPjBKym9KQvN76XFTecSzeS3zII0THzhKWTyT90="
+      },
+      "sub_comment_has_more": true,
+      "content": "腾讯的东西，还要扫盘，反正我是不会用的[微笑R]",
+      "like_count": "10+",
+      "show_tags": [],
+      "sub_comment_count": "2",
+      "sub_comment_cursor": "6a43195d000000002b024191",
+      "invalid": false,
+      "id": "6a43008d000000000b0381a8",
+      "status": 0,
+      "liked": false,
+      "ip_location": "广东",
+      "sub_comments": [
+        {
+          "id": "6a43195d000000002b024191",
+          "content": "腾讯的东西，不到逼不得已，是绝不会碰的。",
+          "like_count": "2",
+          "user_info": {
+            "xsec_token": "ABkTOyEgyapG5PbU1czCObv2m7nQPiZi1c5XXLuCu34uc=",
+            "user_id": "64debffe000000000100d0f8",
+            "nickname": "momo123",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f4a9262aeee795c99e7.jpg?imageView2/2/w/120/format/jpg",
+            "ai_agent": false
+          },
+          "ip_location": "湖北",
+          "target_comment": {
+            "id": "6a43008d000000000b0381a8",
+            "user_info": {
+              "user_id": "6788552e00000000060134f8",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b809d1b0ee4025dc47735.jpg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABwO8mrPjBKym9KQvN76XFTecSzeS3zII0THzhKWTyT90="
+            }
+          },
+          "invalid": false,
+          "note_id": "6a426275000000002003bd0f",
+          "status": 0,
+          "at_users": [],
+          "liked": false,
+          "show_tags": [],
+          "create_time": 1782782302000
+        }
+      ],
+      "create_time": 1782775949000,
+      "note_id": "6a426275000000002003bd0f"
+    },
+    {
+      "content": "各种生活安排计划弄成什么系统化、sop、看板云云，干脆就别做人了做机器算了。ai热以来互联网给渲染成一种不流程化不体系化人就活不了的趋势，真的让我很反感。。",
+      "at_users": [],
+      "invalid": false,
+      "status": 0,
+      "sub_comments": [],
+      "sub_comment_cursor": "",
+      "note_id": "6a426275000000002003bd0f",
+      "liked": false,
+      "user_info": {
+        "user_id": "618366e0000000001000d8a6",
+        "nickname": "猫砂盆操盘手",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31quqt927706g5oc3crg41m561ip6r88?imageView2/2/w/120/format/jpg",
+        "ai_agent": false,
+        "xsec_token": "ABebBeV3g1irYFt39wWT2DYfBhvhfkvObqGBsFIp6yiMw="
+      },
+      "show_tags": [],
+      "ip_location": "浙江",
+      "sub_comment_has_more": false,
+      "like_count": "9",
+      "create_time": 1782883020000,
+      "sub_comment_count": "0",
+      "id": "6a44a2cb000000000b03a608"
+    },
+    {
+      "status": 0,
+      "at_users": [],
+      "user_info": {
+        "user_id": "674570b3000000001d02e35a",
+        "nickname": "小红薯674686EE",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e371fc3de4c930eff9d.jpg?imageView2/2/w/120/format/jpg",
+        "ai_agent": false,
+        "xsec_token": "AB0MUXVhqVaAea9adgMBCzSBqnMFHqlPXiLOTHRuGsulA="
+      },
+      "ip_location": "广东",
+      "id": "6a4a7e1a000000000802ebf2",
+      "note_id": "6a426275000000002003bd0f",
+      "like_count": "1",
+      "sub_comment_count": "0",
+      "sub_comment_has_more": false,
+      "content": "普通人要有松弛感不然活的很累",
+      "show_tags": [],
+      "create_time": 1783266843000,
+      "sub_comments": [],
+      "invalid": false,
+      "liked": false,
+      "sub_comment_cursor": ""
+    }
+  ],
+  "raw_pages": [
+    {
+      "code": 0,
+      "success": true,
+      "msg": "成功",
+      "data": {
+        "xsec_token": "ABIxLPsMmfBnL4GJj61B-Sq1mJC2D0h4FOKTXuRkAYoCY=",
+        "user_id": "6a64e8880000000013030001",
+        "comments": [
+          {
+            "sub_comment_cursor": "6a480cbb0000000015005605",
+            "id": "6a45532b000000002a005aa5",
+            "at_users": [],
+            "sub_comment_count": "5",
+            "like_count": "10+",
+            "user_info": {
+              "user_id": "6593b27500000000220023a9",
+              "nickname": "DDD",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31th6bga7m8005pcjm9qog8t9sg8sab8?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "AB1rCjW0sRuxtWtKHz-QHtycHrvQTv2QH5cymyvpmHGiw="
+            },
+            "sub_comments": [
+              {
+                "note_id": "6a426275000000002003bd0f",
+                "content": "web3 同理",
+                "at_users": [],
+                "like_count": "5",
+                "user_info": {
+                  "user_id": "62c6b59c000000000303f20b",
+                  "nickname": "可可坚果",
+                  "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31onp19kd06005om6mme0vsgb0kuvnn8?imageView2/2/w/120/format/jpg",
+                  "ai_agent": false,
+                  "xsec_token": "ABhob32ZuyXO1_wITQAULhRHbmApUezOaa9da-QUwSvQk="
+                },
+                "create_time": 1783106748000,
+                "ip_location": "重庆",
+                "invalid": false,
+                "id": "6a480cbb0000000015005605",
+                "status": 0,
+                "liked": false,
+                "show_tags": [],
+                "target_comment": {
+                  "id": "6a45532b000000002a005aa5",
+                  "user_info": {
+                    "user_id": "6593b27500000000220023a9",
+                    "nickname": "DDD",
+                    "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31th6bga7m8005pcjm9qog8t9sg8sab8?imageView2/2/w/120/format/jpg",
+                    "ai_agent": false,
+                    "xsec_token": "AB1rCjW0sRuxtWtKHz-QHtycHrvQTv2QH5cymyvpmHGiw="
+                  }
+                }
+              }
+            ],
+            "note_id": "6a426275000000002003bd0f",
+            "status": 0,
+            "show_tags": [],
+            "create_time": 1782928171000,
+            "ip_location": "新加坡",
+            "sub_comment_has_more": true,
+            "invalid": false,
+            "content": "你们 Vibe Coding 的人没事干的话，可以去找个班上，不要再浪费数据中心的电力去做这种无聊的项目了",
+            "liked": false
+          },
+          {
+            "status": 0,
+            "liked": false,
+            "sub_comments": [
+              {
+                "liked": false,
+                "like_count": "10+",
+                "create_time": 1782775035000,
+                "ip_location": "美国",
+                "id": "6a42fcfb000000000d021c00",
+                "status": 0,
+                "content": "好痛好痛",
+                "user_info": {
+                  "user_id": "62129267000000001000f2ca",
+                  "nickname": "汉尼拔罐",
+                  "image": "https://sns-avatar-qc.xhscdn.com/avatar/641d0f86791182156ac01ff8.jpg?imageView2/2/w/120/format/jpg",
+                  "ai_agent": false,
+                  "xsec_token": "ABGJiGIiahdoPeq-tSQKGylM2iLKKWYT_xL0M8qao_7Ec="
+                },
+                "show_tags": [],
+                "target_comment": {
+                  "id": "6a42c4860000000015008db5",
+                  "user_info": {
+                    "xsec_token": "ABc6U9YhecsvdPl58Z1tN_lZxgoWEODcs_JMSfTNPDjaw=",
+                    "user_id": "56b7f5c6cb35fb26fa0783bb",
+                    "nickname": "momo",
+                    "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320k2khs4me0045gmfkqsd0trfsu7ps8?imageView2/2/w/120/format/jpg",
+                    "ai_agent": false
+                  }
+                },
+                "invalid": false,
+                "note_id": "6a426275000000002003bd0f",
+                "at_users": []
+              }
+            ],
+            "sub_comment_cursor": "6a42fcfb000000000d021c00",
+            "sub_comment_has_more": true,
+            "note_id": "6a426275000000002003bd0f",
+            "at_users": [],
+            "show_tags": [],
+            "ip_location": "美国",
+            "invalid": false,
+            "like_count": "10+",
+            "sub_comment_count": "7",
+            "id": "6a42c4860000000015008db5",
+            "content": "解决了在家不能上班的痛点",
+            "user_info": {
+              "user_id": "56b7f5c6cb35fb26fa0783bb",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320k2khs4me0045gmfkqsd0trfsu7ps8?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABc6U9YhecsvdPl58Z1tN_lZxgoWEODcs_JMSfTNPDjaw="
+            },
+            "create_time": 1782760583000
+          },
+          {
+            "status": 0,
+            "create_time": 1784946095000,
+            "ip_location": "湖北",
+            "sub_comment_cursor": "",
+            "id": "6a641dae000000001403a2f6",
+            "liked": false,
+            "user_info": {
+              "user_id": "678b2d56000000000d009aa6",
+              "nickname": "兢兢葡萄",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v682ir1jq605psb5lb396l666gmhdg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABz8MWH1io5cudWuAi7AUsczEGs83_zm-cnaExSbHfR9U="
+            },
+            "sub_comments": [],
+            "content": "感觉用工具把人变成系统，就是一种把人异化成工具的方式，可能会造成任何事物都可以由算法决定的错觉，这会造成对自我的去责任化。可能久而久之会迷失。",
+            "at_users": [],
+            "invalid": false,
+            "like_count": "0",
+            "show_tags": [],
+            "sub_comment_count": "0",
+            "sub_comment_has_more": false,
+            "note_id": "6a426275000000002003bd0f"
+          },
+          {
+            "content": "听我的，普通人没那么多数据要整理，每天也产生不了那么多有价值的数据，更没那个能力管理这样一个系统。",
+            "show_tags": [],
+            "sub_comment_count": "2",
+            "sub_comments": [
+              {
+                "invalid": false,
+                "id": "6a446f1b000000002b02669b",
+                "note_id": "6a426275000000002003bd0f",
+                "status": 0,
+                "at_users": [],
+                "liked": false,
+                "like_count": "10+",
+                "user_info": {
+                  "user_id": "562c98f8f53ee01b6e225e8b",
+                  "nickname": "极个别同志",
+                  "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31554o0m80u6041qr6lcfgnkbr08hkd0?imageView2/2/w/120/format/jpg",
+                  "ai_agent": false,
+                  "xsec_token": "AB9W2XTEaWfLjhr4oD7ciHzegM3XF18eqSOC1mOQYuI-8="
+                },
+                "create_time": 1782869787000,
+                "content": "是的，我曾试图搞一个，发现自己一天里没有多少事情需要管理，自己脑子过一遍也就几分钟都过完了",
+                "show_tags": [],
+                "ip_location": "陕西",
+                "target_comment": {
+                  "id": "6a43f4d2000000000b038f0c",
+                  "user_info": {
+                    "ai_agent": false,
+                    "xsec_token": "ABoja1Fgkob5dP5wL5gXUSql6-tIab7tJ9zS_nyFKhEfM=",
+                    "user_id": "5f855d870000000001000402",
+                    "nickname": "Blackout",
+                    "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31opmtc8eh2005ns5bm3g8102p2oqim0?imageView2/2/w/120/format/jpg"
+                  }
+                }
+              }
+            ],
+            "sub_comment_cursor": "6a446f1b000000002b02669b",
+            "note_id": "6a426275000000002003bd0f",
+            "create_time": 1782838483000,
+            "ip_location": "上海",
+            "sub_comment_has_more": true,
+            "invalid": false,
+            "at_users": [],
+            "id": "6a43f4d2000000000b038f0c",
+            "status": 0,
+            "liked": false,
+            "like_count": "10+",
+            "user_info": {
+              "user_id": "5f855d870000000001000402",
+              "nickname": "Blackout",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31opmtc8eh2005ns5bm3g8102p2oqim0?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABoja1Fgkob5dP5wL5gXUSql6-tIab7tJ9zS_nyFKhEfM="
+            }
+          },
+          {
+            "invalid": false,
+            "create_time": 1783660766000,
+            "id": "6a5080de0000000015010979",
+            "note_id": "6a426275000000002003bd0f",
+            "status": 0,
+            "user_info": {
+              "user_id": "619c2d0000000000020265a3",
+              "nickname": "自然女小白",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31htcl88d3o6g5ocs5k00kpd3nc2p53g?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABscgpqCFnbNs6Luk7ul1XKVVPLFezXfJFjBi-fW0LmTA="
+            },
+            "show_tags": [],
+            "like_count": "0",
+            "sub_comment_cursor": "6a5080ea0000000021011e42",
+            "ip_location": "上海",
+            "sub_comment_count": "3",
+            "sub_comments": [
+              {
+                "id": "6a5080ea0000000021011e42",
+                "note_id": "6a426275000000002003bd0f",
+                "status": 0,
+                "at_users": [],
+                "like_count": "0",
+                "user_info": {
+                  "user_id": "68944c1e0000000028001164",
+                  "nickname": "问一问",
+                  "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2f031kojs3241u6g5plr93gmrfe5jkq0gvo",
+                  "ai_agent": true,
+                  "xsec_token": "ABXpEdrqE8twUeIqbHd4dkKjsJz-_lILd3XwVf0T-jmGs="
+                },
+                "invalid": false,
+                "content": "根据现有信息，笔记中提到的Marvis软件 本身并没有直接提及支持向Obsidian新建或修改笔记的功能 。\n不过，Obsidian作为一个高度可扩展的本地知识库，完全可以通过其他AI工具或插件实现类似“生活操作系统”的自动化管理，包括让AI帮你新建和修改笔记。\n【如何让AI与Obsidian联动】\n虽然Marvis在笔记中主要展示了文件整理、电脑体检和任务安排等系统级操作，但如果你希望实现AI与Obsidian的深度联动，可以参考以下几种成熟的方案：\n使用支持API的AI工具：像Codex、Cursor这类AI工具，可以通过编写脚本（Prompt）来读写本地文件。你可以让它们监控你的Obsidian库，自动扫描新笔记、提取关键词、生成双向链接，甚至根据你的模板自动生成新的笔记内容。\n安装Obsidian社区插件：Obsidian拥有丰富的插件生态，可以直接在社区插件市场找到许多AI相关的插件。\nCopilot for Obsidian：这是一个功能强大的插件，支持接入你自己的OpenAI、Claude等API密钥。它的Pro版本可以直接编辑笔记、与整个知识库对话，实现更智能的交互。\nSmart Connections & Smart Lookup：这类插件能用本地AI为你的知识库建模，自动找出相关笔记并进行语义搜索，让零散的知识点自动串联起来。\n【Obsidian的自动化优势】\nObsidian的核心优势在于 数据完全本地化，且所有笔记都以Markdown格式存储 。这意味着你可以用任何支持文件读写的AI工具来操作它，而不受特定软件生态的限制。 你可以搭建一个“会自己生长”的笔记库，让AI在后台自动整理、关联和更新你的知识，真正实现不依赖自律的自动化管理。",
+                "liked": false,
+                "show_tags": [],
+                "create_time": 1783660779000,
+                "target_comment": {
+                  "user_info": {
+                    "user_id": "619c2d0000000000020265a3",
+                    "nickname": "自然女小白",
+                    "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31htcl88d3o6g5ocs5k00kpd3nc2p53g?imageView2/2/w/120/format/jpg",
+                    "ai_agent": false,
+                    "xsec_token": "ABscgpqCFnbNs6Luk7ul1XKVVPLFezXfJFjBi-fW0LmTA="
+                  },
+                  "id": "6a5080de0000000015010979"
+                }
+              }
+            ],
+            "content": "@问一问 文中提到的软件能往obsidian里新建笔记吗，或者修改已有的笔记，请上网搜一下回答我",
+            "at_users": [
+              {
+                "user_id": "68944c1e0000000028001164",
+                "nickname": "问一问",
+                "ai_agent": false,
+                "xsec_token": "ABXpEdrqE8twUeIqbHd4dkKjsJz-_lILd3XwVf0T-jmGs="
+              }
+            ],
+            "liked": false,
+            "sub_comment_has_more": true
+          },
+          {
+            "ip_location": "陕西",
+            "at_users": [],
+            "liked": false,
+            "user_info": {
+              "nickname": "？？？",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gf586p3jo6g5n2f246k2tds1pcema0?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABoLkUFv9mV1qPJp8yDG3f_p9MQlHzL9EhN3rLaFeg_KA=",
+              "user_id": "5c4f110d00000000100175bc"
+            },
+            "sub_comment_cursor": "",
+            "sub_comment_has_more": false,
+            "sub_comment_count": "0",
+            "note_id": "6a426275000000002003bd0f",
+            "sub_comments": [],
+            "invalid": false,
+            "id": "6a43483a0000000014039f38",
+            "status": 0,
+            "content": "职场嘉豪，把生活都搞成职场那一套糟粕",
+            "like_count": "10+",
+            "show_tags": [],
+            "create_time": 1782794299000
+          },
+          {
+            "id": "6a430ad50000000005014094",
+            "status": 0,
+            "liked": false,
+            "show_tags": [],
+            "ip_location": "江苏",
+            "sub_comments": [
+              {
+                "status": 0,
+                "at_users": [
+                  {
+                    "nickname": "小羊偷牛奶🥛",
+                    "ai_agent": false,
+                    "xsec_token": "ABGk9y77BWdaDu0ONq9NS8CK-V_uKT0Rm46s3Sr1Uw6sU=",
+                    "user_id": "59fd59234eacab3a97f7d584"
+                  }
+                ],
+                "liked": false,
+                "like_count": "0",
+                "show_tags": [],
+                "target_comment": {
+                  "id": "6a430ad50000000005014094",
+                  "user_info": {
+                    "user_id": "59927e9e5e87e73fceaa4f4b",
+                    "nickname": "染时",
+                    "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qf4j2jig4105oravb37r510u134e08?imageView2/2/w/120/format/jpg",
+                    "ai_agent": false,
+                    "xsec_token": "ABYAB6oDH4Ix8gNO5039ugsT5hwslt9EjOrirhltfer4w="
+                  }
+                },
+                "invalid": false,
+                "id": "6a49614400000000290274b5",
+                "note_id": "6a426275000000002003bd0f",
+                "content": "@小羊偷牛奶🥛",
+                "user_info": {
+                  "user_id": "61c009110000000021025604",
+                  "nickname": "Hsützu",
+                  "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jd1joi32u005oe0148oclg450e0hj8?imageView2/2/w/120/format/jpg",
+                  "ai_agent": false,
+                  "xsec_token": "ABPO4362pwhsuvH6KSJcW8tLQOp12Rlp9mO4Jo1_JYYZ0="
+                },
+                "create_time": 1783193924000,
+                "ip_location": "浙江"
+              }
+            ],
+            "note_id": "6a426275000000002003bd0f",
+            "content": "不要把自己当工具用",
+            "at_users": [],
+            "like_count": "10+",
+            "user_info": {
+              "xsec_token": "ABYAB6oDH4Ix8gNO5039ugsT5hwslt9EjOrirhltfer4w=",
+              "user_id": "59927e9e5e87e73fceaa4f4b",
+              "nickname": "染时",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30qf4j2jig4105oravb37r510u134e08?imageView2/2/w/120/format/jpg",
+              "ai_agent": false
+            },
+            "create_time": 1782778582000,
+            "sub_comment_count": "1",
+            "sub_comment_cursor": "6a49614400000000290274b5",
+            "sub_comment_has_more": false,
+            "invalid": false
+          },
+          {
+            "at_users": [],
+            "user_info": {
+              "user_id": "6788552e00000000060134f8",
+              "nickname": "momo",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b809d1b0ee4025dc47735.jpg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABwO8mrPjBKym9KQvN76XFTecSzeS3zII0THzhKWTyT90="
+            },
+            "sub_comment_has_more": true,
+            "content": "腾讯的东西，还要扫盘，反正我是不会用的[微笑R]",
+            "like_count": "10+",
+            "show_tags": [],
+            "sub_comment_count": "2",
+            "sub_comment_cursor": "6a43195d000000002b024191",
+            "invalid": false,
+            "id": "6a43008d000000000b0381a8",
+            "status": 0,
+            "liked": false,
+            "ip_location": "广东",
+            "sub_comments": [
+              {
+                "id": "6a43195d000000002b024191",
+                "content": "腾讯的东西，不到逼不得已，是绝不会碰的。",
+                "like_count": "2",
+                "user_info": {
+                  "xsec_token": "ABkTOyEgyapG5PbU1czCObv2m7nQPiZi1c5XXLuCu34uc=",
+                  "user_id": "64debffe000000000100d0f8",
+                  "nickname": "momo123",
+                  "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7f4a9262aeee795c99e7.jpg?imageView2/2/w/120/format/jpg",
+                  "ai_agent": false
+                },
+                "ip_location": "湖北",
+                "target_comment": {
+                  "id": "6a43008d000000000b0381a8",
+                  "user_info": {
+                    "user_id": "6788552e00000000060134f8",
+                    "nickname": "momo",
+                    "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b809d1b0ee4025dc47735.jpg?imageView2/2/w/120/format/jpg",
+                    "ai_agent": false,
+                    "xsec_token": "ABwO8mrPjBKym9KQvN76XFTecSzeS3zII0THzhKWTyT90="
+                  }
+                },
+                "invalid": false,
+                "note_id": "6a426275000000002003bd0f",
+                "status": 0,
+                "at_users": [],
+                "liked": false,
+                "show_tags": [],
+                "create_time": 1782782302000
+              }
+            ],
+            "create_time": 1782775949000,
+            "note_id": "6a426275000000002003bd0f"
+          },
+          {
+            "content": "各种生活安排计划弄成什么系统化、sop、看板云云，干脆就别做人了做机器算了。ai热以来互联网给渲染成一种不流程化不体系化人就活不了的趋势，真的让我很反感。。",
+            "at_users": [],
+            "invalid": false,
+            "status": 0,
+            "sub_comments": [],
+            "sub_comment_cursor": "",
+            "note_id": "6a426275000000002003bd0f",
+            "liked": false,
+            "user_info": {
+              "user_id": "618366e0000000001000d8a6",
+              "nickname": "猫砂盆操盘手",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31quqt927706g5oc3crg41m561ip6r88?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "ABebBeV3g1irYFt39wWT2DYfBhvhfkvObqGBsFIp6yiMw="
+            },
+            "show_tags": [],
+            "ip_location": "浙江",
+            "sub_comment_has_more": false,
+            "like_count": "9",
+            "create_time": 1782883020000,
+            "sub_comment_count": "0",
+            "id": "6a44a2cb000000000b03a608"
+          },
+          {
+            "status": 0,
+            "at_users": [],
+            "user_info": {
+              "user_id": "674570b3000000001d02e35a",
+              "nickname": "小红薯674686EE",
+              "image": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e371fc3de4c930eff9d.jpg?imageView2/2/w/120/format/jpg",
+              "ai_agent": false,
+              "xsec_token": "AB0MUXVhqVaAea9adgMBCzSBqnMFHqlPXiLOTHRuGsulA="
+            },
+            "ip_location": "广东",
+            "id": "6a4a7e1a000000000802ebf2",
+            "note_id": "6a426275000000002003bd0f",
+            "like_count": "1",
+            "sub_comment_count": "0",
+            "sub_comment_has_more": false,
+            "content": "普通人要有松弛感不然活的很累",
+            "show_tags": [],
+            "create_time": 1783266843000,
+            "sub_comments": [],
+            "invalid": false,
+            "liked": false,
+            "sub_comment_cursor": ""
+          }
+        ],
+        "cursor": "6a4a7e1a000000000802ebf2",
+        "has_more": true,
+        "time": 1784998025096
+      }
+    }
+  ]
+}
