@@ -1,0 +1,58 @@
+# Market Structure + Liquidity + Order Flow validation defaults
+
+data:
+  symbol: SYN_WAVE
+  source: synthetic   # synthetic | csv | yfinance
+  csv_path: null
+  # yfinance example: 600460.SS (士兰微)
+  yfinance_symbol: "600460.SS"
+  start: "2018-01-01"
+  end: null
+  synthetic_seed: 42
+  synthetic_bars: 1200
+
+structure:
+  swing_left: 3
+  swing_right: 3
+  atr_window: 14
+  liquidity_lookback: 80
+  reclaim_bars: 5
+  sweep_atr_buffer: 0.05
+
+orderflow:
+  volume_ma: 20
+  efficiency_window: 10
+  absorption_volume_z: 1.5
+  absorption_range_pctile: 0.35
+  imbalance_window: 5
+
+wave_proxy:
+  fib_min: 0.5
+  fib_max: 0.618
+  w2_reclaim_bars: 5
+  w3_efficiency_min: 0.55
+  w5_vol_decline_ratio: 0.85
+  min_impulse_atr: 1.2
+
+signals:
+  min_score: 0.65
+  # Default tradeable set: prefer states with event-study edge.
+  # Sweep/BOS features remain as ingredients inside W2/W3/A scoring.
+  long_states:
+    - W2_END_CANDIDATE
+    - W3_EXPAND
+  short_states:
+    - A_DISTRIBUTE
+    - W5_EXHAUST
+
+validation:
+  horizons: [1, 3, 5, 10, 20]
+  hold_bars: 5
+  cost_bps: 5
+  side: long_short
+  min_events: 8
+
+output:
+  dir: artifacts/validation
+  save_plots: true
+  save_events_csv: true
