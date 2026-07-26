@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "market-structure-lab"
+version = "0.1.0"
+description = "Market Structure + Liquidity + Order Flow quantitative validation lab"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "zhouxihan" }]
+dependencies = [
+  "numpy>=1.26",
+  "pandas>=2.1",
+  "scipy>=1.11",
+  "matplotlib>=3.8",
+  "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.4"]
+market = ["yfinance>=0.2.40"]
+
+[project.scripts]
+mslab = "market_structure.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["market_structure*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
