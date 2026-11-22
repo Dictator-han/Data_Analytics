@@ -1,0 +1,15 @@
+# Fallback when host networking is unavailable.
+# Set BROADCAST_ADDRESS in config.env to your LAN directed broadcast,
+# e.g. 192.168.1.255 (not 255.255.255.255).
+
+services:
+  mac-mini-wake:
+    build: .
+    container_name: mac-mini-wake
+    restart: unless-stopped
+    env_file:
+      - ./config.env
+    volumes:
+      - ./config.env:/app/config.env:ro
+    ports:
+      - "${HTTP_PORT:-8787}:${HTTP_PORT:-8787}"

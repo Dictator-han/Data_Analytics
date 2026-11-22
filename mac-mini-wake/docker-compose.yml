@@ -1,0 +1,15 @@
+services:
+  mac-mini-wake:
+    build: .
+    container_name: mac-mini-wake
+    restart: unless-stopped
+    # Host networking is required so UDP broadcast reaches the LAN.
+    # On Synology Container Manager this is the recommended mode for WoL.
+    network_mode: host
+    env_file:
+      - ./config.env
+    volumes:
+      # Optional: live-edit config without rebuilding the image
+      - ./config.env:/app/config.env:ro
+    # With network_mode: host, published ports are ignored; HTTP_PORT in
+    # config.env (default 8787) is what matters.
